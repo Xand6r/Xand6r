@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xand6r
+- 👋 Hi, I’m Shuaibu Alexander
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on projects
