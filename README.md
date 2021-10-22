@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shuaibu Alexander
-- 👀 I’m interested in blockchain projects
-- 🌱 I’m currently learning how to write staking contracts,
-- 💞️ I’m looking to collaborate on web3 projects
+- 👀 I’m interested in building and scaling projects
+- 🌱 I’m currently learning solidity.
+- 💞️ I’m looking to collaborate on amazing projects
 - 📫 How to reach me shuaibualexander@gmail.com
 
 <!---
