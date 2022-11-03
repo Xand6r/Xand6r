@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shuaibu Alexander
+- 👋 Hi,
 - 👀 I’m interested in building and scaling projects
 - 🌱 I’m currently working on open source projects.
 - 💞️ I’m looking to collaborate on amazing projects
