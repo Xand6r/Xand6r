@@ -3,8 +3,8 @@
 - 🌱 I’m currently working on open source projects.
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 How to reach me shuaibualexander@gmail.com
-- some of my favourite work include:
-- https://app.prodeus.co, https://prodeus.co, https://musing-yalow-9dd83f.netlify.app/, https://springsentia.vercel.app/. https://vigorous-ramanujan-3da9d5.netlify.app/ 
+- some of my favourite public interfaces include:
+- https://app.prodeus.co, https://prodeus.co, https://musing-yalow-9dd83f.netlify.app/, https://springsentia.vercel.app/. https://vigorous-ramanujan-3da9d5.netlify.app/ , https://www.gamespeak.gg/
 
 <!---
 Xand6r/Xand6r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
